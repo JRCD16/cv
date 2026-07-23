@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: 💻📄🌟
 description: Jose Ramón online CV
+kramdown:
+  parse_block_html: true
