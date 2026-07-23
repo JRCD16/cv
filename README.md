@@ -39,7 +39,7 @@ _Técnico microinformático | Gestión de proyectos | Atención al cliente | Hel
 <div style="background-color: #f4f4f4; border-radius: 12px; padding: 20px; margin: 20px 0; display: flex; align-items: center; justify-content: space-between; gap: 20px;">
 <div style="flex: 1;">
 
-## 🎯 Competencias
+## 🎯 Otros conocimientos
 Aquí tu contenido, funciona con **Markdown** dentro también.
 
 </div>
