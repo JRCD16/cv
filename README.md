@@ -2,9 +2,9 @@
 Curriculum Vitae
 
 _Técnico microinformático | Gestión de proyectos | Atención al cliente | Helpdesk | Soporte IT 💻🗨_ 
-<br>
+<br><center>
 [Email](mailto:) / [LinkedIn](https://www.linkedin.com/in/JRCD16/) / [GitHub](https://github.com/JRCD16/)
-<br>
+<br></center>
 
 <img src="img/psyduck.webp" alt="Foto de perfil" class="profile-photo">
 
