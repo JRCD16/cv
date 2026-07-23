@@ -34,5 +34,6 @@ _Técnico Informático | Gestión de proyectos | Atención al cliente_
 [NAME](https://URL?) - LOCATION _(DATE)_ <br>
 
 <div style="background-color: #f4f4f4; border-radius: 12px; padding: 20px; margin: 20px 0;">
-###TEST
+### TEST
+  **Markdown**
 </div>
