@@ -1,7 +1,7 @@
 # Jose Ramón Claro
 Curriculum Vitae
 
-_Técnico microinformático | Gestión de proyectos | Atención al cliente | Helpdesk | Soporte IT 💻🗨_ 
+_Técnico microinformático | Gestión de proyectos | Helpdesk | Soporte IT 💻🗨_ 
 <br>
 
 [Email](mailto:) / [LinkedIn](https://www.linkedin.com/in/JRCD16/) / [GitHub](https://github.com/JRCD16/)
